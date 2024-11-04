@@ -6,4 +6,4 @@ It Is Recommended To Do A Shortcut Like This On Older Versions Of Toolbox V1.0 t
 ![Screenshot 2024-10-09 094324](https://github.com/user-attachments/assets/f774e1ec-eaba-4594-a449-40112a6de915)
 
 # More Features Soon
-![image](https://github.com/user-attachments/assets/88507dc2-f278-409f-9f24-58d1d65f332e)
+![image](https://github.com/user-attachments/assets/bded4d0f-63a3-44ae-ad96-ea237411b33d)
