@@ -8,20 +8,20 @@
 ![Status](https://img.shields.io/badge/Status-Active-FF0000)
 
 
-# Info
+# ℹ️ Info
 
 This Is My Own ToolBox Wich I've Made In Batch , It's Fully Open Source And It Contains No Malware Or Similar Like That
 
 It Is Recommended To Do A Shortcut Like This On Older Versions Of Toolbox V1.0 to V1.2
 ![Screenshot 2024-10-09 094324](https://github.com/user-attachments/assets/f774e1ec-eaba-4594-a449-40112a6de915)
 
-# Installation
+# ⬇ Installation
 1. Download The Toolbox.zip File From The [Releases](https://github.com/SimonGhost1012/ToolBox/releases)
 
-2. Extract The Zip File Where Every You Wannt Using [7-Zip](https://7-zip.com/download.html)
+2. Extract The Zip File Where Every You Wannt Using [7-Zip](https://7-zip.com/download.html) Or [Winrar](https://www.win-rar.com/download.html)
 
 3. Run The Main Batch File
 
-# Screenshots
+# 🖼 Screenshots
 
 ![image](https://github.com/user-attachments/assets/bded4d0f-63a3-44ae-ad96-ea237411b33d)
