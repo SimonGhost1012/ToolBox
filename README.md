@@ -30,7 +30,7 @@ It Is Recommended To Do A Shortcut Like This On Older Versions Of Toolbox V1.0 t
 
 # ❓ FAQ
 **Q: How Do I Update Toolbox?**
-A: Download The Latest Version From The [Releases](https://github.com/SimonGhost1012/ToolBox/releases) Page , Delte And Replace The Old Files.
+A: Download The Latest Version From The [Releases](https://github.com/SimonGhost1012/ToolBox/releases) Page , Delete And Replace The Old Files.
 
 # 💬 Support
 If You Need Help Or Have Any Questions, Feel Free To Open An Issue On GitHub Or Join My [Discord Server](https://discord.gg/UHkBSPBpzz) For Assistance.
