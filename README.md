@@ -36,10 +36,10 @@ This Program Has Been Tested On Windows 11.
 A: Download The Latest Version From The [Releases](https://github.com/SimonGhost1012/ToolBox/releases) Page , Delete And Replace The Old Files.
 
 # 💬 Support
-If You Need Help Or Have Any Questions, Feel Free To Open An Issue On GitHub Or Join My [Discord Server](https://discord.gg/UHkBSPBpzz) For Assistance.
+If You Need Help Or Have Any Questions, Feel Free To Open An Issue On GitHub Or Join My [Discord Server](https://discord.gg/qnS9HbEBVj) For Assistance.
 
 # 🙏 Thank You!
-Thanks For Checking Out Toolbox! If You Have Any Feedback Or Suggestions, Feel Free To Contact Me Via My [Discord Server](https://discord.gg/UHkBSPBpzz).
+Thanks For Checking Out Toolbox! If You Have Any Feedback Or Suggestions, Feel Free To Contact Me Via My [Discord Server](https://discord.gg/qnS9HbEBVj).
 
 # 🖼 Screenshots
 
