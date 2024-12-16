@@ -2,6 +2,7 @@
 
 ![Image](https://github.com/user-attachments/assets/b7dbd5bb-8edf-44c7-9bd1-131ae3142348)
 ![Language](https://img.shields.io/badge/Language-Batch-FF0000)
+![VirusFree](https://img.shields.io/badge/Virus-Free-FF0000)
 
 
 # Info
