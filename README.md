@@ -10,23 +10,30 @@
 
 # ℹ️ Info
 
-This Is My Own ToolBox Wich I've Made In Batch , It's Fully Open Source And It Contains No Malware Or Similar Like That
+This Is My Own ToolBox Wich I've Made In Batch , It's Fully Open Source And It Contains No Malware Or Similar Like That.
 
-It Is Recommended To Do A Shortcut Like This On Older Versions Of Toolbox V1.0 to V1.2
+It Is Recommended To Do A Shortcut Like This On Older Versions Of Toolbox V1.0 to V1.2.
 ![Screenshot 2024-10-09 094324](https://github.com/user-attachments/assets/f774e1ec-eaba-4594-a449-40112a6de915)
 
 # ⬇ Installation
 
-1. Download The Toolbox.zip File From The [Releases](https://github.com/SimonGhost1012/ToolBox/releases)
+1. Download The Toolbox.zip File From The [Releases].(https://github.com/SimonGhost1012/ToolBox/releases)
 
-2. Extract The Zip File Where Every You Wannt Using [7-Zip](https://7-zip.com/download.html) Or [Winrar](https://www.win-rar.com/download.html)
+2. Extract The Zip File Where Every You Wannt Using [7-Zip](https://7-zip.com/download.html) Or [Winrar].(https://www.win-rar.com/download.html)
 
-3. Run The Main Batch File
+3. Run The Main Batch File.
 
 # ⚙️ Features
 - Easy-To-Use Interface
 - Lightweight And Fast
 - Free And Open-Source
+
+# ❓ FAQ
+**Q: How Do I Update Toolbox?**
+A: Download The Latest Version From The [Releases](https://github.com/SimonGhost1012/ToolBox/releases) Page , Delte And Replace The Old Files.
+
+# 💬 Support
+If You Need Help Or Have Any Questions, Feel Free To Open An Issue On GitHub Or Join My [Discord Server](https://discord.gg/UHkBSPBpzz) For Assistance.
 
 # 🖼 Screenshots
 
