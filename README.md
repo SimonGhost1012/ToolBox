@@ -23,6 +23,9 @@ It Is Recommended To Do A Shortcut Like This On Older Versions Of Toolbox V1.0 t
 
 3. Run The Main Batch File.
 
+# 🖥️ Tested On
+This Program Has Been Tested On Windows 11.
+
 # ⚙️ Features
 - Easy-To-Use Interface
 - Lightweight And Fast
