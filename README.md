@@ -4,7 +4,6 @@
 ![Language](https://img.shields.io/badge/Language-Batch-FF0000)
 ![VirusFree](https://img.shields.io/badge/Virus-Free-FF0000)
 ![Platform](https://img.shields.io/badge/Platform-Windows-FF0000)
-![Windows](https://img.shields.io/badge/Platform-Windows-0078D4)
 ![Stability](https://img.shields.io/badge/Stability-Stable-FF0000)
 ![Status](https://img.shields.io/badge/Status-Active-FF0000)
 
