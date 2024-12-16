@@ -12,7 +12,7 @@ It Is Recommended To Do A Shortcut Like This On Older Versions Of Toolbox V1.0 t
 ![Screenshot 2024-10-09 094324](https://github.com/user-attachments/assets/f774e1ec-eaba-4594-a449-40112a6de915)
 
 # Installation
-Download The Toolbox.zip File From The [Releases](https://github.com/SimonGhost1012/ToolBox/releases)
+**1.**Download The Toolbox.zip File From The [Releases](https://github.com/SimonGhost1012/ToolBox/releases)
 
 # Screenshots
 
