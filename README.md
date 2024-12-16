@@ -38,6 +38,9 @@ A: Download The Latest Version From The [Releases](https://github.com/SimonGhost
 # 💬 Support
 If You Need Help Or Have Any Questions, Feel Free To Open An Issue On GitHub Or Join My [Discord Server](https://discord.gg/UHkBSPBpzz) For Assistance.
 
+# 🙏 Thank You!
+Thanks For Checking Out Toolbox! If You Have Any Feedback Or Suggestions, Feel Free To Contact Me Via My [Discord Server](https://discord.gg/UHkBSPBpzz).
+
 # 🖼 Screenshots
 
 ![image](https://github.com/user-attachments/assets/bded4d0f-63a3-44ae-ad96-ea237411b33d)
