@@ -25,3 +25,7 @@ It Is Recommended To Do A Shortcut Like This On Older Versions Of Toolbox V1.0 t
 # 🖼 Screenshots
 
 ![image](https://github.com/user-attachments/assets/bded4d0f-63a3-44ae-ad96-ea237411b33d)
+
+# 📃 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
