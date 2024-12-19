@@ -17,14 +17,22 @@ It Is Recommended To Do A Shortcut Like This On Older Versions Of Toolbox V1.0 t
 
 # ⬇ Installation
 
-1. Download The Toolbox.zip File From The [Releases](https://github.com/SimonGhost1012/ToolBox/releases).
+1. Run Cmd As Admin , Than Run These Commands. : Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+                                                 iwr get.scoop.sh -useb | iex
+                                                 scoop install curl
 
-2. Extract The Zip File Where Every You Wannt Using [7-Zip](https://7-zip.com/download.html) Or [Winrar](https://www.win-rar.com/download.html).
+3. Download The Toolbox.zip File From The [Releases](https://github.com/SimonGhost1012/ToolBox/releases).
 
-3. Run The Main Batch File.
+4. Extract The Zip File Where Every You Wannt Using [7-Zip](https://7-zip.com/download.html) Or [Winrar](https://www.win-rar.com/download.html).
+
+5. Run The Main Batch File.
 
 # 🖥️ Tested On
 This Program Has Been Tested On Windows 11.
+
+# 🖥️ Requirements
+Scoop
+Curl
 
 # ⚙️ Features
 - Easy-To-Use Interface
@@ -34,6 +42,8 @@ This Program Has Been Tested On Windows 11.
 # ❓ FAQ
 **Q: How Do I Update Toolbox?**
 A: Download The Latest Version From The [Releases](https://github.com/SimonGhost1012/ToolBox/releases) Page , Delete And Replace The Old Files.
+
+On V1.7+ You Dont Need To Download It From The Release Page Anymore.
 
 # 💬 Support
 If You Need Help Or Have Any Questions, Feel Free To Open An Issue On GitHub Or Join My [Discord Server](https://discord.gg/qnS9HbEBVj) For Assistance.
