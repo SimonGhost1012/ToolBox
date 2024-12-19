@@ -31,8 +31,7 @@ It Is Recommended To Do A Shortcut Like This On Older Versions Of Toolbox V1.0 t
 This Program Has Been Tested On Windows 11.
 
 # 🖥️ Requirements
-Scoop
-Curl
+Scoop , Curl , [7-Zip](https://7-zip.com/download.html)
 
 # ⚙️ Features
 - Easy-To-Use Interface
